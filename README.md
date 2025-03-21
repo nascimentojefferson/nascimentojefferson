@@ -1,8 +1,8 @@
 ## Olá! Eu sou Jefferson Nascimento 👋
 
 
-- 🔭 Hoje busco uma oportunidade como desenvolvedor júnior
-- 🌱 Estudando e aprimorando conhecimentos na programação utilizando Python
+- 🔭 Estou em busca de uma oportunidade como desenvolvedor júnior
+- 🌱 Estudando e aprimorando conhecimentos em Python
 - 😄 Pronouns: ele/dele
   
 <div>
