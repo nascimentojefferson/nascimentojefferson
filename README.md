@@ -8,5 +8,5 @@
 <div>
   <a href-"https://github.com/nascimentojefferson">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=nascimentojefferson&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentojefferson&layout=compact&langs_count=16&theme=radical"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentojefferson&layout=donut-vertical&langs_count=16&theme=radical"/>
 </div>
