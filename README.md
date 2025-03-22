@@ -20,9 +20,8 @@
 <img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/javascript.png" height="60"/>
 <img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/java.png" height="60"/>
 </div> 
- <div>
-   <h1><p></p><strong>Banco de Dados:</strong></h1></p>
-   <div style="text-align: center;">
+  <div style="text-align: center;">
+   <h1><p align="center"></p><strong>Banco de Dados:</strong></h1></p>
      
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
  </div>
