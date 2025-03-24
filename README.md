@@ -31,3 +31,11 @@
    ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
  </div>
  </div>
+ <div style="text-align: center;">
+  <h1><p align="center"><strong>Visualizações:</strong></h1></p>
+ </div>
+<div align="center">
+  
+![Visitor Count](https://profile-counter.glitch.me/nascimentojefferson/count.svg)
+
+  </div>
