@@ -1,10 +1,11 @@
  <div  style="text-align: center;">
    <strong><p align="center">Olá! Eu sou Jefferson Nascimento👋</p></strong>
+  <strong><p align="center">Hi! I'm Jefferson Nascimento👋</p></strong>
  </div>
  
-- 🔭 Estou em busca de uma oportunidade como desenvolvedor.
-- 🌱 Estudando e aprimorando conhecimentos em Python
-
+- 🔭 Estou em busca de uma oportunidade como desenvolvedor. (I am looking for an opportunity as a developer.)
+- 🌱 Estudando e aprimorando conhecimentos em Python. (Studying and improving knowledge in Python.)
+  
   <div align="center">
             <img src="https://img.icons8.com/fluency/30/000000/star.png" />
             <img src="https://img.icons8.com/fluency/30/000000/star.png" />
@@ -17,7 +18,7 @@
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=nascimentojefferson&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentojefferson&layout=donut&langs_count=16&theme=radical"/>
 </div>
-  <h1><p align="center"><strong>Linguagens e ferramentas:</strong></p></h1>
+  <h1><p align="center"><strong>Linguagens e ferramentas(Languages and tools):</strong></p></h1>
      
 <div align="center">
   <table>
