@@ -84,7 +84,7 @@
   <table>
     <thead>
       <tr>
-        <th colspan="7">Sistemas Operacionais:</th>
+        <th colspan="7">Sistemas Operacionais OS:</th>
       </tr>
     </thead>
     <tr>
