@@ -3,8 +3,8 @@
   <strong><p align="center">Hi! I'm Jefferson Nascimento👋</p></strong>
  </div>
  
-- 🔭 Estou em busca de uma oportunidade como desenvolvedor. (I am looking for an opportunity as a developer.)
-- 🌱 Estudando e aprimorando conhecimentos em Python. (Studying and improving knowledge in Python.)
+ <strong><p align="center">- 🔭 Estou em busca de uma oportunidade como desenvolvedor. (I am looking for an opportunity as a developer.)</p></strong>
+ <strong><p align="center">- 🌱 Estudando e aprimorando conhecimentos em Python. (Studying and improving knowledge in Python.)</p></strong>
   
   <div align="center">
             <img src="https://img.icons8.com/fluency/30/000000/star.png" />
