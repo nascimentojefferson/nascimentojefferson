@@ -15,8 +15,8 @@
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=nascimentojefferson&label=Profile%20viewers:&color=FE7A16&style=for-the-badge" alt="nascimentojefferson" /> </p>
 <div align="center">
   <a href-"https://github.com/nascimentojefferson">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=nascimentojefferson&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentojefferson&layout=donut&langs_count=16&theme=radical"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?
+  
 </div>
   <h1><p align="center"><strong>Linguagens e ferramentas(Languages and tools):</strong></p></h1>
      
